@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+A: Two part I learned about express, endpoint and validation
+
 - [ ] Describe Middleware?
+
+A: Checks incoming data for specific information the company/developer is looking for.
 
 - [ ] Describe a Resource?
 
+A: Data in object form
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A: An http status code or even a message but status is preferable
+
 - [ ] How can we partition our application into sub-applications?
+
+A: Using diffenernt api routes that differ by endpoints
 
 ## Minimum Viable Product
 
